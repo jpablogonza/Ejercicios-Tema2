@@ -10,7 +10,7 @@ public class Ejercicio8 {
 				int distancia, estancia;
 				double precio = 2.5, descuento, total;
 
-				//Abrimos el escaner
+				//Abrimos el escaner 
 				Scanner sc = new Scanner(System.in);
 
 				//Preguntamos al usuario cuantos km va a recorrer

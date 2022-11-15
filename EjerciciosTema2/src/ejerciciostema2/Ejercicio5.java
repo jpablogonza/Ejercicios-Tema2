@@ -16,7 +16,7 @@ public class Ejercicio5 {
 			System.out.print("Dime un número: ");
 			num = sc.nextInt();
 			
-			//Usamos el operador ternario para sacar el valor absoluto
+			//Usamos el operador ternario para sacar el valor absoluto del número
 			num = num<0 ? -num : num;
 			
 			//Mostramos el número en valor absoluto

@@ -57,7 +57,7 @@ public class Ejercicio1 {
 					System.out.println("El numero es capicúa"); //Si se cumple el número es capicúa
 					
 				} else { 
-					System.out.println("El numero no es capicúa"); //Si no se cumple el número no es capicúa
+					System.out.println("El numero no es capicúa"); //Si no se cumple, el número no es capicúa
 				}
 			}
 

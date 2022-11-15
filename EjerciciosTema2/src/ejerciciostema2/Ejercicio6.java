@@ -14,7 +14,7 @@ public class Ejercicio6 {
 			
 			num1 = (int) (Math.random() * 99); //Sacamos el primer número aleatorio
 			
-			num2 = (int) (Math.random() * 99); //SAcamos el segundo número aleatorio
+			num2 = (int) (Math.random() * 99); //Sacamos el segundo número aleatorio
 			
 			//Le pedimos al usuario que resuelva la suma con los números aleatorios
 			System.out.println("Resuelve la siguiente suma: " + num1 + " + " + num2);

@@ -27,7 +27,7 @@ public class Ejercicio7 {
 			//Le sumariamos 1 a los segundos
 			segundos++;
 			
-			//Introducimos las condiciones
+			//Introducimos las condiciones 
 			if (horas > 24 || minutos >= 61 || segundos >= 61) {
 				
 			System.out.println("Los valores introducidos no son válidos"); //Mostramos lo que pasaria si no se introduce los valores correctos
